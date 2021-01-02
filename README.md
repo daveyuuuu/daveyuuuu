@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center"><img src="https://raw.githubusercontent.com/daveyuuuu/daveyuuuu/main/rem.png" /></div>
-<br></br>
+<hr>
 
 - 🔭 I’m currently **Studying in Zhejiang University**
 - 🌱 I’m currently learning **JavaScript and Algorithm**
