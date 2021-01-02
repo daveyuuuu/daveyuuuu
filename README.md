@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">👋 Hi there! I'm Dave.</h2>
 
 <!--
 **daveyuuuu/daveyuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently **Studying in Zhejiang University**
+- 🌱 I’m currently learning **JavaScript and Algorithm**
+- 😄 I'm now focusing on **imporving web developing skills**
+- 📫 How to reach me: daveyuuuu@gmail
+- ⚡ Fun fact: A heavy game fan
