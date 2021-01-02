@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 <div align="center"><img src="https://raw.githubusercontent.com/daveyuuuu/daveyuuuu/main/rem.png" /></div>
 
+<br></br>
+
 - 🔭 I’m currently **Studying in Zhejiang University**
 - 🌱 I’m currently learning **JavaScript and Algorithm**
 - 😄 I'm now focusing on **imporving web developing skills**
